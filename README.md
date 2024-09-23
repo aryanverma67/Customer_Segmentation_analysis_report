@@ -2,7 +2,7 @@ Overview
 This project includes two comprehensive customer segmentation reports: Sales Report and Customer Report. Both reports leverage key performance indicators (KPIs) such as total sales, total customers, average rating, and average sales, and utilize advanced data visualizations to provide actionable insights. The reports also offer interactive filtering and navigation options for in-depth analysis.
 
 1. Sales Report
-Purpose: Analyze sales data by customer demographics and purchasing patterns to optimize business strategies.
+2. Purpose: Analyze sales data by customer demographics and purchasing patterns to optimize business strategies.
 Key KPIs:
 Total Sales
 Total Customers
@@ -16,7 +16,7 @@ Tables: Detailed sales and customer data for specific segments
 Slicers: Filter by education, age group, income group, marital status, segmentation group, and more
 Interactive Filters: Enable filtering by occupation, state, and gender for targeted analysis.
 Page Navigation: Seamlessly switch between report pages using a dynamic page navigator for an intuitive user experience.
-2. Customer Report
+3. Customer Report
 Purpose: Analyze customer demographics and behavior to better understand customer segmentation and improve engagement.
 Key KPIs:
 Total Sales by Customer Segment
